@@ -5,6 +5,9 @@ Starting the Application
 --Install node applications
 ---yarn install
 
+--Start Mongod DB
+--- sudo service mongod start
+
 --Start command
 ---yarn start
 
