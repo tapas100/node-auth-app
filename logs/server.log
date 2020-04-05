@@ -1,0 +1,91 @@
+{"error":{},"level":"error","message":"uncaughtException: logger is not defined\n/home/refixd/Desktop/interview/node-auth-app/index.js:1\nReferenceError: logger is not defined\n    at Object.<anonymous> (/home/refixd/Desktop/interview/node-auth-app/index.js:36:9)\n    at Generator.next (<anonymous>)","stack":"/home/refixd/Desktop/interview/node-auth-app/index.js:1\nReferenceError: logger is not defined\n    at Object.<anonymous> (/home/refixd/Desktop/interview/node-auth-app/index.js:36:9)\n    at Generator.next (<anonymous>)","exception":true,"date":"Sun Apr 05 2020 17:28:31 GMT+0530 (IST)","process":{"pid":2821,"uid":1000,"gid":1000,"cwd":"/home/refixd/Desktop/interview/node-auth-app","execPath":"/usr/bin/node","version":"v8.16.1","argv":["/usr/bin/node","/home/refixd/Desktop/interview/node-auth-app/index.js"],"memoryUsage":{"rss":117497856,"heapTotal":86863872,"heapUsed":53074656,"external":20990439}},"os":{"loadavg":[1.23095703125,1.3076171875,1.3798828125],"uptime":7776},"trace":[{"column":9,"file":"/home/refixd/Desktop/interview/node-auth-app/index.js","function":null,"line":36,"method":null,"native":false},{"column":null,"file":null,"function":"Generator.next","line":null,"method":"next","native":false}]}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"level":"error","message":"MongoDB connection was failed: failed to connect to server [localhost:27017] on first connect [{ Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14) name: 'MongoNetworkError', [Symbol(mongoErrorContextSymbol)]: {} }]"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3002","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
